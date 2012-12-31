@@ -1,0 +1,7 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Try/Tiny/ByClass.pm
+t/00-load.t
+t/basic.t
